@@ -1,4 +1,4 @@
-## Olá, eu sou o Kauan Selyson! 👋
+## Olá, eu sou o Kauan! 👋
 
 - 🔭 Estou a procura do meu primeiro desafio na área de tecnologia!
 - 🌱 Estudando typescript
