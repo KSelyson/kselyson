@@ -1,18 +1,10 @@
 ## Olá, eu sou o Kauan Selyson! 👋
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true&theme=red"
-    media="(prefers-color-scheme: red)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true"
-    media="(prefers-color-scheme: red), (prefers-color-scheme: red)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true" />
-</picture>
-
 - 🔭 Estou a procura do meu primeiro desafio na área de tecnologia!
 - 🌱 Estudando typescript
 - 😄 Pronouns: ele/dele
-
+  
+<div style="display=flex justify-content=space-between">
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kselyson&theme=shadow_red&show_icons=true&include_all_commits=true&rank_icon=github"/>
+  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kselyson&layout=compact&theme=shadow_red"/>
+</div>
