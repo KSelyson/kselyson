@@ -1,7 +1,7 @@
 ### Kauan S. D. Gonzaga
 ___
 
-Hello World! For the search of my fisrt oportunite! 🫡🧑‍💻
+Hello World! For the search of my first oportunite! 🫡🧑‍💻
 
 ### Languages and technologies
 ___
