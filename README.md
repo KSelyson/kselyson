@@ -1,18 +1,22 @@
-## Olá, eu sou o Kauan! 👋
+### Kauan S. D. Gonzaga
+___
 
-- 🔭 Estou a procura do meu primeiro desafio na área de tecnologia!
-- 🌱 Estudando Java e SQL!
-- 😄 Pronomes: ele/dele
-  
-<div style="display=flex justify-content=space-between">
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api?username=kselyson&theme=shadow_red&show_icons=true&include_all_commits=true&rank_icon=github"/>
-  <img height="180rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kselyson&layout=compact&theme=shadow_red"/>
-</div>
+Hello World! For the search of my fisrt oportunite! 🫡🧑‍💻
 
-<br>
+### Languages and technologies
+___
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,mysql,postgres,docker,aws" />
+</a>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+### My Github's Stats
+___
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true" 
+    alt="The source is unavailable"
+  />
+</picture>
