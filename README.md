@@ -6,7 +6,7 @@ Hello World! For the search of my first oportunite! 🫡🧑‍💻
 ### Languages and technologies
 ___
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,angular,mysql,postgres,docker,aws" 
+  <img src="https://skillicons.dev/icons?i=js,ts,golang,java,spring,mysql,postgres,react,angular,docker,aws" 
     alt="The source is unavailable"/>
 </a>
 
