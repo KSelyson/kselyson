@@ -12,12 +12,10 @@ ___
 
 ### My Github's Stats
 ___
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true" 
-    alt="The source is unavailable"
-  />
-</picture>
+
+<p>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true&theme=nord" alt="The source is unavailable"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kselyson&layout=compact&theme=nord" alt="The source is unavailable"/>
+</p>
+
+
