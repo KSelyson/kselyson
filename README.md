@@ -14,8 +14,8 @@ ___
 ___
 
 <p>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true&theme=nord" alt="The source is unavailable"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kselyson&layout=compact&theme=nord" alt="The source is unavailable"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kselyson&show_icons=true&theme=nord" alt="The source is unavailable"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kselyson&layout=compact&theme=nord" alt="The source is unavailable"/>
 </p>
 
 
